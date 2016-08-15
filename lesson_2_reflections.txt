@@ -3,3 +3,6 @@ Answer: a .git directory is created. I need to use it to track the history of th
 
 How can you use the staging area to make sure you have one commit per logical change?
 Only add the files per logical change, check staged before commit
+
+How do the diagrams help you visualize the branch structure?
+It shows me the relationship of all the branches and which unreachable.
