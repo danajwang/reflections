@@ -9,3 +9,7 @@ You may also want to commit and push your changes. When you're finished, click "
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You may also want to commit and push your changes. When you're finished, click "Next" and Caroline will introduce a GitHub feature called a Pull Request that makes collaboration easier.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You may also want to commit and push your changes. When you're finished, click "Next".
